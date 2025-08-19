@@ -1,0 +1,28 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+#joão{
+    padding-bottom: 2%;
+    
+}
+#foto-perfil{
+    padding-top: 4%;
+}
+img{
+    border-radius: 50%;
+}
+#informa{
+    padding-top: 2%;
+}
+#profissonal{
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+footer{
+    text-align:center;
+    padding-bottom:10%;
+}
