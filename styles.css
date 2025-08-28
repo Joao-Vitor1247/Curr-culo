@@ -4,25 +4,52 @@
  box-sizing: border-box;
 }
 
-#joão{
-    padding-bottom: 1%;
+body{
+    max-width:100%;
+    width: 100%;
+    margin: 0 auto;
+    background: linear-gradient(to right, #f0f0f0, #a0a0a0);
+}
+#p1{
+    text-align: center;
+    padding: 10px 0px 40px px;
     
+
+}
+#joão{
+    text-align: center;
+    padding: 0px 0px 10px 0px;
 }
 #foto-perfil{
-    padding-top: 2%;
+    text-align: center;
+    padding: 0px 400px 0px 0px;
+}
+#nome{
+    text-align: center;
+    padding: 10px 450px 20px 0px;
 }
 img{
-    border-radius: 50%;
+    border-radius:50%  ;
+    padding: 10px 0px 0px 80px;
+    height: 40%;
+    width:  40%;
+    a
+    
 }
 #informa{
-    padding-top: 2%;
+    text-align: center;
+    padding : 0px 0px 0px 0px;
+    
 }
 #profissonal{
     text-align: center;
-    padding-bottom: 1%;
+    padding: 100px 0px 0px 0px;
 }
 
 footer{
     text-align:center;
-    padding-bottom:5%;
+    position:relative;
+    bottom:0;
+    width:100% ;
+    padding: 100px 0px 0px 0px;
 }
